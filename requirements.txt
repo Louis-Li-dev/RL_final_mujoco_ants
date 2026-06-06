@@ -1,0 +1,18 @@
+# --- PyTorch Installation Instructions ---
+# For GPU (CUDA 12.4) support (recommended for training):
+# pip install torch==2.6.0+cu124 --extra-index-url https://download.pytorch.org/whl/cu124
+#
+# For CPU-only support:
+# pip install torch==2.6.0
+# -----------------------------------------
+
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0+cu124
+
+# Core dependencies
+numpy==1.26.4
+Flask==3.0.0
+opencv-python==4.10.0.82
+mujoco==3.1.6
+gymnasium[mujoco]==0.29.1
+stable-baselines3==2.4.0a7
