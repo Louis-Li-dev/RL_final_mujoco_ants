@@ -2,7 +2,8 @@
 
 This repository contains an end-to-end framework for training and visualizing a Soft Actor-Critic (SAC) reinforcement learning agent on the MuJoCo **Ant-v4** environment using Stable-Baselines3. It features an interactive Flask web dashboard to monitor training metrics, load models (including pre-trained weights from Hugging Face), run 3D simulations, and analyze real-time physics telemetry.
 
-[Overview Video] https://www.youtube.com/watch?v=7KNsVt9e69g
+[Overview Presentation Video] https://www.youtube.com/watch?v=7KNsVt9e69g
+[DEMO Video] https://www.youtube.com/watch?v=S6Jgg82prGU
 
 > **Note:** The full conversation with the LLM used during the development of this project is available in [project_generation_transcript.md](project_generation_transcript.md).
 
