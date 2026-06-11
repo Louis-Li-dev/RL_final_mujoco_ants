@@ -87,3 +87,4 @@ Within the dashboard, you can:
 3.  Set the desired simulation steps and check/uncheck **Deterministic Policy**.
 4.  Click **"Run 3D Simulation"** (執行 3D 模擬) to execute a rollout episode.
 5.  Use the playback controls (**Play**, **Reset**, **Speed**, and **Scrubber**) to visualize the agent's movement and analyze joint torques and coordinates frame-by-frame.
+![image](https://github.com/Louis-Li-dev/RL_final_mujoco_ants/blob/main/%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8.png)
